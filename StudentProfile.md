@@ -11,3 +11,5 @@ Abdifatah Jama Ismail
 ## Goals
 - Become a Full Stack Developer
 - Build real-world projects
+- Learning Git & GitHub
+- Improving coding skills
